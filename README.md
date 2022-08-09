@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:2eae31a938ee253eab522acb2dda87ac177d3f29826e95133d07d370d9ccbae6
-size 10
+OpenPose关键点检测类封装调用
+该项目将OpenPose的初始化、关键点提取、关键点之间的世界坐标系距离功能编写成类的成员函数进行使用，简单易调用。
